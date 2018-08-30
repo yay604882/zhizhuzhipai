@@ -2,7 +2,7 @@
 
 
 <font color=#00CED1	 size=18 face="微软雅黑">纸牌和益智相结合的经典游戏，规则简单，操作灵活，一定让你挑灯夜战，欲罢不能。
-  你需要利用自己的智慧去打败对手，欢乐无限，来玩吧</font>
+ \\n 你需要利用自己的智慧去打败对手，欢乐无限，来玩吧</font>
 
 
 ![image](https://github.com/yay604882/zhizhuzhipai/blob/master/zhizhu.jpg)
