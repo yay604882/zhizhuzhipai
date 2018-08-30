@@ -5,7 +5,7 @@
 你需要利用自己的智慧去打败对手，欢乐无限，来玩吧</font>
 
 
-![image](https://github.com/yay604882/TianTainYouYI/blob/master/ttyy.jpg)
+![image](https://github.com/yay604882/TianTainYouYI/blob/master/zhizhu.jpg)
 
 
 [联系电话](+86-18194095677) : [+86-17076401334](+86-18194095677)
