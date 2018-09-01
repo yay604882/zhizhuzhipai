@@ -7,6 +7,6 @@
 ![image](https://github.com/yay604882/zhizhuzhipai/blob/master/zhizhu.jpg)
 
 
-[联系电话](+86-18194095677) : [+86-17076401334](+86-18194095677)
+[联系电话](+86-18194095688) : [+86-18194095688](+86-18194095688)
 
 [我们的邮箱](mw123mw@yandex.com) : [zjskn888@yandex.com](mw123mw@yandex.com)
